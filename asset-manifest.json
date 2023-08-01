@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Rasoi/static/css/main.67bc5d3f.css",
-    "main.js": "/Rasoi/static/js/main.9e8559c1.js",
+    "main.css": "/Rasoi/static/css/main.5f7500f3.css",
+    "main.js": "/Rasoi/static/js/main.a90309d6.js",
     "static/media/meals.jpg": "/Rasoi/static/media/meals.2971f633fc1382581cbf.jpg",
     "index.html": "/Rasoi/index.html",
-    "main.67bc5d3f.css.map": "/Rasoi/static/css/main.67bc5d3f.css.map",
-    "main.9e8559c1.js.map": "/Rasoi/static/js/main.9e8559c1.js.map"
+    "main.5f7500f3.css.map": "/Rasoi/static/css/main.5f7500f3.css.map",
+    "main.a90309d6.js.map": "/Rasoi/static/js/main.a90309d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.67bc5d3f.css",
-    "static/js/main.9e8559c1.js"
+    "static/css/main.5f7500f3.css",
+    "static/js/main.a90309d6.js"
   ]
 }
